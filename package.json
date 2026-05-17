@@ -25,5 +25,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/MLebedeva00/PackAssistant",
+  "author": "MLebedeva00 <maria.lebedeva.06@mail.ru>",
+  "license": "Apache-2.0"
 }
