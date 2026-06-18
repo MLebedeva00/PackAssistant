@@ -24,6 +24,7 @@
     "@salutejs/client": "^1.37.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-router-dom": "6",
     "react-scripts": "5.0.1"
   },
   "main": "index.js",
